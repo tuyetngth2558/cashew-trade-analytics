@@ -1,0 +1,27 @@
+# Core Data Processing
+pandas
+numpy
+openpyxl
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Dashboard
+streamlit
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Database
+sqlalchemy
+
+# Utilities
+python-dotenv
+pyyaml
+
+# Development
+jupyter
+ipykernel

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Data files (không push data lớn lên GitHub)
+data/raw/*.csv
+data/raw/*.txt
+data/raw/*.xlsx
+data/processed/*.csv
+data/database/*.db
+
+# Model files
+models/*.pkl
+models/*.h5
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
