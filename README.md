@@ -83,14 +83,6 @@ cashew-trade-analytics/
 └── tests/             # Unit tests
 ```
 
-## 📸 Screenshots
-
-### Dashboard Overview
-![Dashboard](assets/dashboard_screenshot.png)
-
-### Revenue Trends
-![Trends](assets/trends_screenshot.png)
-
 ## 🎯 Next Steps
 
 - [ ] Add machine learning models
