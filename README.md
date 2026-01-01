@@ -83,5 +83,33 @@ cashew-trade-analytics/
 └── tests/             # Unit tests
 ```
 
+## 📸 Screenshots
+
+### Dashboard Overview
+![Dashboard](assets/dashboard_screenshot.png)
+
+### Revenue Trends
+![Trends](assets/trends_screenshot.png)
+
+## 🎯 Next Steps
+
+- [ ] Add machine learning models
+- [ ] Implement customer segmentation
+- [ ] Add revenue forecasting
+- [ ] Deploy to Streamlit Cloud
+- [ ] Add authentication
+- [ ] Create API endpoints
+
+## 📝 Development Log
+
+### Version 0.1.0 (Current)
+- ✅ Data cleaning pipeline
+- ✅ SQLite database
+- ✅ Basic Streamlit dashboard
+
+### Planned Features
+- Machine learning models
+- Advanced analytics
+- Real-time updates
 ## 📄 License
 MIT License
