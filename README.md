@@ -256,20 +256,3 @@ Please ensure:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
-
-- **Tuyet Nguyen** - [tuyetngth2558](https://github.com/tuyetngth2558)
-
-## 🙏 Acknowledgments
-
-- Sample data generated using Python Faker library
-- Dashboard built with Streamlit
-- Visualizations powered by Plotly
-
-## 📧 Contact
-
-For questions or support, please open an issue on GitHub or contact [your-email@example.com](mailto:your-email@example.com)
-
----
-
-**Note:** This project uses synthetic sample data for demonstration. For production use with real data, ensure proper data security and compliance with your organization's policies.
