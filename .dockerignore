@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Documentation (keep in image)
+# README.md
+# LICENSE
+
+# Data files (exclude large data, keep sample)
+data/raw/*
+data/processed/*
+data/database/*.db
+!data/sample/
+
+# Models (exclude trained models)
+models/*.pkl
+models/*.h5
+models/*.joblib
+
+# Tests
+tests/
+*.pytest_cache/
+.coverage
+htmlcov/
+
+# CI/CD
+.github/
+
+# Environment
+.env
+.env.local
+
+# Notebooks (optional - exclude for smaller image)
+notebooks/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/

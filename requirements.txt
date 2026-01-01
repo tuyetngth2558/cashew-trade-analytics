@@ -25,3 +25,8 @@ pyyaml
 # Development
 jupyter
 ipykernel
+
+# Testing & Data Generation
+pytest>=7.0.0
+pytest-cov>=4.0.0
+faker>=20.0.0

@@ -21,6 +21,9 @@ data/raw/*.xlsx
 data/processed/*.csv
 data/database/*.db
 
+# Allow sample data for demo
+!data/sample/*.csv
+
 # Model files
 models/*.pkl
 models/*.h5
